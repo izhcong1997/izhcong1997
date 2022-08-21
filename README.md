@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @izhcong1997
-- 👀 I’m interested in Cloud Development
-- 🌱 I’m currently learning AWS Solutions Architect Professional
+- 👋 Hi, I’m @izhcong1997 (Noel Yeo Yao Cong), my friends call me YC or Noel! 
+- 👀 I’m interested in Pre-Sales for Cloud, Cloud-Native Development and constantly keeping up with modern technologies
+- 🌱 I’m currently a certified AWS Solutions Architect Professional
 - 💞️ 
 - 📫 How to reach me https://www.linkedin.com/in/ycyc/
 
